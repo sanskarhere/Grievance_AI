@@ -1,4 +1,4 @@
-# Grievance.ai — Smart Public Governance & AI Dispatch Platform
+# GrievanceAI — Smart Public Governance & AI Dispatch Platform
 
 [![Neon Auth](https://img.shields.io/badge/Identity-Neon%20Auth%20OIDC-blueviolet?style=for-the-badge)](https://neon.tech/docs/guides/auth)
 [![Google Cloud Run](https://img.shields.io/badge/Deployment-Cloud%20Run-blue?style=for-the-badge)](https://cloud.google.com/run)
